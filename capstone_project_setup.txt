@@ -1,0 +1,1 @@
+Create a program that is able to count the change from a picture (british pounds).
